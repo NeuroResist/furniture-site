@@ -2,7 +2,7 @@ html {
     box-sizing: border-box;
 }
 body {
-    margin: 0;
+    margin: 0 720px;
 }
 .header {
     max-width: 1376px;
@@ -26,6 +26,7 @@ body {
     font-weight: 400;
     font-size: 18px;
     line-height: 21.09px;
+    margin-bottom: 10px;
 }
 .list {
     list-style-type: none;
@@ -35,7 +36,7 @@ body {
     left: 963px;
     padding: 0;
     margin: 0;
-    margin-bottom: 10px;
+
 }
 .tel {
     width: 140px;
